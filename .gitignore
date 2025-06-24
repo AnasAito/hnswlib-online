@@ -11,3 +11,8 @@ var/
 .vs/
 **.DS_Store
 *.pyc
+*.png
+*.pkl
+*.npz
+*.npy
+*.bin
